@@ -1,0 +1,14 @@
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.exe
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.deps.json
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\refint\FinanceManagementSystem.dll
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\FinanceManagementSystem\obj\Debug\net9.0\ref\FinanceManagementSystem.dll
