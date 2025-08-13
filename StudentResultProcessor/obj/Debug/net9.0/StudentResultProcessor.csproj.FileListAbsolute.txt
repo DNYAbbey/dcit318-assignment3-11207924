@@ -1,0 +1,16 @@
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\bin\Debug\net9.0\StudentResultProcessor.exe
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\bin\Debug\net9.0\StudentResultProcessor.deps.json
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\bin\Debug\net9.0\StudentResultProcessor.runtimeconfig.json
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\bin\Debug\net9.0\StudentResultProcessor.dll
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\bin\Debug\net9.0\StudentResultProcessor.pdb
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.AssemblyInfoInputs.cache
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.AssemblyInfo.cs
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.csproj.CoreCompileInputs.cache
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.sourcelink.json
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.dll
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\refint\StudentResultProcessor.dll
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.pdb
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\StudentResultProcessor.genruntimeconfig.cache
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\obj\Debug\net9.0\ref\StudentResultProcessor.dll
+C:\Users\daisy\OneDrive\Documents\GitHub\dcit318-assignment3-11207924\StudentResultProcessor\bin\Debug\net9.0\Data\students.txt

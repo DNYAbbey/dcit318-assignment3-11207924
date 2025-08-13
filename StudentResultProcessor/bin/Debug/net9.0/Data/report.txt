@@ -1,0 +1,4 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+John Doe (ID: 102): Score = 73, Grade = B
+Mary Ann (ID: 103): Score = 49, Grade = F
+Chris Wayne (ID: 104): Score = 91, Grade = A
